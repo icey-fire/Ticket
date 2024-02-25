@@ -1,6 +1,12 @@
 # Ticket Entry Approved/Denied Analysis
 > Key words: Machine Learning, Logistic Regression, PCA, Decision Tree, K-Means, Lasso, KNN
 
+### Background
+A specific event company overbooked for a concert/event.  
+Now they are allowing entry to only some people.  
+The goal of the analysis is to find out:  
+**What attributes determine the Approved/Denied result of the ticket bookers?**  
+
 The <code>.ipynb</code> file contains:
 
 ### 1. Introduction
